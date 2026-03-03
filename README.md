@@ -43,6 +43,9 @@ The platform analyzes function signatures, parameters, return types, and interna
 
 ## 🏗️ System Architecture
 
+![Uploading image.png…]()
+
+
 1. User inputs Python function
 2. AST Parser analyzes function structure
 3. Logic Analyzer detects behavior patterns
