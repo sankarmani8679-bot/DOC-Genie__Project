@@ -42,10 +42,7 @@ The platform analyzes function signatures, parameters, return types, and interna
 ---
 
 ## 🏗️ System Architecture
-
-![Uploading image.png…]()
-
-
+https://chatgpt.com/s/m_69a68838abec81919bd43aebe2cccef1
 1. User inputs Python function
 2. AST Parser analyzes function structure
 3. Logic Analyzer detects behavior patterns
